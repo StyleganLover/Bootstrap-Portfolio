@@ -3,12 +3,16 @@ img {
 }
 
 a {
-    color: #ebebeb;
+    color: #fff;
 }
 
 a:hover {
     color: #000;
     text-decoration: none;
+}
+
+#w3 {
+    color: blue;
 }
 
 .view {
