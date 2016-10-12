@@ -1,7 +1,9 @@
+/*My own styles applied to the page*/
 img {
 	width: 100%;
 }
 
+/*changes the color of the links on the porfolio images*/
 a {
     color: #fff;
 }
@@ -10,11 +12,11 @@ a:hover {
     color: #000;
     text-decoration: none;
 }
-
+/*Changes the default link style, making the w3schools link visible on the white page*/
 #w3 {
     color: blue;
 }
-
+/*Customizes the look of my font-awesome icons*/
 .font-awesome {
     color: #f4511e;
     margin-right: 10px;
@@ -28,7 +30,9 @@ a:hover {
     color: #f4511e;
 }
 
-
+/*This section animates my portfolio thumbnails.  Using a demo from tympanus.net, I 
+*created containers for each image.  Then, using a .mask class, I overlaid info about the image.
+*The .view-seventh class applies the animation effect upon hover.*/
 .view {
     width: 100%;
     height: 100%;
