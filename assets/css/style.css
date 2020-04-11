@@ -183,3 +183,9 @@
      font-family: 'Jacques Francois Shadow', cursive;
      font-size: 22pt;
  }
+
+ h5 {
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color: darkslategray;
+     font-size: 11pt;
+ }
