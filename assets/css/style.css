@@ -5,15 +5,16 @@
       color: darkgoldenrod;
   }
   h2 {
-      font-size: 24px;
+      font-size: 25pt;
       text-transform: uppercase;
       color: darkseagreen;
       font-weight: 600;
       margin-bottom: 30px;
       font-family: 'Great Vibes';
+      font-size: ;
   }
   h4 {
-      font-size: 19px;
+      font-size: 20pt;
       line-height: 1.375em;
       color: indianred;      
       font-weight: 400;
@@ -181,4 +182,5 @@
 
  .AboutKTA {
      font-family: 'Jacques Francois Shadow', cursive;
+     font-size: 22pt;
  }
