@@ -5,12 +5,12 @@ img {
 
 /*changes the color of the links on the porfolio images*/
 a {
-    color: #fff;
+    color: rgb(88, 82, 172);
 }
 
 a:hover {
-    color: #000;
-    text-decoration: none;
+    color: rgb(158, 37, 57);
+    text-decoration: underline;
 }
 /*Changes the default link style, making the w3schools link visible on the white page*/
 #w3 {
