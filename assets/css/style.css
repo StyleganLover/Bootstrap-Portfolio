@@ -10,7 +10,7 @@
       color: darkseagreen;
       font-weight: 600;
       margin-bottom: 30px;
-      font-family: 'Great Vibes';
+      font-family: Georgia;
       font-size: ;
   }
   h4 {
@@ -19,13 +19,13 @@
       color: indianred;      
       font-weight: 400;
       margin-bottom: 30px;
-      font-family: 'Great Vibes';
+      font-family: 'Playfair Display';
   }
   .jumbotron {
       background: #8f5374;
       color: rgb(185, 133, 214);
       padding: 100px 25px;
-      font-family: Montserrat, sans-serif;
+      font-family: 'Playfair Display';
   }
   .container-fluid {
       padding: 60px 50px;
