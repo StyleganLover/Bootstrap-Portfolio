@@ -11,6 +11,7 @@ a {
 a:hover {
     color: rgb(158, 37, 57);
     text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 /*Changes the default link style, making the w3schools link visible on the white page*/
 #w3 {
@@ -18,12 +19,12 @@ a:hover {
 }
 /*Customizes the look of my font-awesome icons*/
 .font-awesome {
-    color: #f4511e;
+    color: darkred;
     margin-right: 10px;
 }
 
 .font-awesome:hover {
-    color: #818181;
+    color: forestgreen;
     text-decoration: none;
 }
 .font-awesome:focus {
